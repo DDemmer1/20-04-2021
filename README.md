@@ -4,14 +4,15 @@
 
 ### 📝 Aufgabe:
 
-- Erstellt eine Klasse eurer Wahl und füllt sie mit sinnvollen Attributen (z.B. Klasse Hund mit einem Alter und einem Namen)
-- Schreibt Getter und Setter für jedes Attribut der Klasse
+In dieser Aufgabe soll der Umgang mit ´´´List´´´ aus dem Java Collection Framework geübt werden, indem eine ´´´List´´´ in der ´´´main´´´-Methode erstellt wird und vier Objekten eingefügt werden.
+
+- Erstellt eine Klasse eurer Wahl und füllt sie mit sinnvollen Attributen (z.B. ´´´ class Hund´´´ mit einem Alter und einem Namen)
+- Schreibt ´´´Getter´´´ und ´´´Setter´´´ für jedes Attribut der Klasse
 - Schreibt einen Konstruktor für eure Klasse
-- Erzeugt eine Liste aus dem Java Collection Framework  
-- Erzeugt 4 Objekte eurer Klasse und füllt eure Liste damit
-- Iteriert über eure Liste und lasst euch ein Attribut von jedem Objekt in der Konsole ausgeben
+- Erzeugt eine ´´´ArrayList´´´ aus dem Java Collection Framework  
+- Erzeugt 4 Objekte eurer Klasse ´´´ class Hund´´´ und füllt eure Liste damit
+- Iteriert über eure Liste und lasst euch dabei ein Attribut von jedem Objekt in der Konsole ausgeben
 - Lasst euch die Länge eurer Liste in der Konsole augeben
-- Sucht euch das letzten Objekt in der Liste raus und lasst euch ein Attribut in der Konsole ausgeben
 - Löscht alle Objekte aus der Liste
 
 ### ℹ️ Resourcen:
